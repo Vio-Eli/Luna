@@ -15,10 +15,10 @@ module.exports = {
         let inline = true
         let resence = true
         const status = {
-            online: /*"<:online:741365114342604831>"*/ "Online",
-            idle: /*"<:idle:741365114342604831>"*/ "Idle",
-            dnd: /*"<:dnd:741365114342604831>"*/ "Do Not Disturb",
-            offline: /*"<:offline:774821689275056148>"*/ "Offline/Invisible"
+            online: "Online",
+            idle: "Idle",
+            dnd: "Do Not Disturb",
+            offline: "Offline/Invisible"
         }
             
 
