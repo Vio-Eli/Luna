@@ -37,7 +37,7 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "simple-youtube-api": "^5.2.1",
-    "snyk": "^1.662.0",
+    "snyk": "^1.669.0",
     "socket.io": "^2.4.1",
     "soundcloud-downloader": "^1.0.0",
     "spdl-core": "^2.0.2",
