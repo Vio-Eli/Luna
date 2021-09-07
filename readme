@@ -3,6 +3,11 @@ README
 LunaBot!
 TODO...
 
-
+-> Get Player xp system working
+-> Create ⏮⏯⏭ interface with discord buttons
+-> Equalizer
+-> UGGGH update packages
+    └> Slash Commands, dependant upon discordjs update 
+    
 Requirements:
 TODO
